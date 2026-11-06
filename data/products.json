@@ -1,0 +1,112 @@
+[
+  {
+    "sku": "MOU-001",
+    "name": "ماوس بی‌سیم Logitech M185",
+    "price": 850000,
+    "stock": 8,
+    "description": "اتصال بی‌سیم با گیرنده USB؛ برای اتصال به درگاه USB مناسب نیاز دارد. این نسخه بلوتوثی نیست. مناسب استفاده عمومی؛ سازگاری دقیق با دستگاه بدون دانستن مدل و درگاه‌ها تأیید نمی‌شود. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "ماوس",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.logi.com/en-us/shop/p/m185-wireless-mouse.910-002225"
+  },
+  {
+    "sku": "MOU-002",
+    "name": "ماوس بی‌سیم Logitech M170",
+    "price": 750000,
+    "stock": 10,
+    "description": "اتصال بی‌سیم با گیرنده USB؛ بدون گیرنده اتصال مستقیم بلوتوث ندارد. برای استفاده روزمره. با دستگاه صرفاً USB-C سازگاری مستقیم تضمین نشود؛ نوع درگاه و تبدیل باید بررسی شود. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "ماوس",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.logitech.com/en-us/shop/p/m170-wireless-mouse"
+  },
+  {
+    "sku": "KEY-001",
+    "name": "کیبورد سیمی Logitech K120",
+    "price": 950000,
+    "stock": 6,
+    "description": "کیبورد سیمی USB با بخش اعداد؛ مدل مکانیکی یا بی‌سیم نیست. چیدمان حروف و وجود چاپ فارسی روی موجودی فروشگاه هنوز تأیید نشده و باید استعلام شود. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "کیبورد",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.logitech.com/en-sg/shop/p/k120-usb-standard-computer"
+  },
+  {
+    "sku": "CAM-001",
+    "name": "وب‌کم Logitech C270 HD",
+    "price": 2200000,
+    "stock": 4,
+    "description": "وضوح تماس تا 720p با 30 فریم در ثانیه، میکروفون داخلی و اتصال USB. مدل 1080p یا 4K نیست. عملکرد در برنامه و سیستم‌عامل مشتری باید بررسی شود. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "وب‌کم",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.logitech.com/en-sg/shop/p/c270-hd-webcam"
+  },
+  {
+    "sku": "SSD-001",
+    "name": "SSD Samsung 870 EVO 500GB",
+    "price": 3200000,
+    "stock": 5,
+    "description": "ظرفیت 500GB؛ فرم 2.5 اینچ و رابط SATA؛ خواندن ترتیبی تا 560 و نوشتن تا 530 مگابایت بر ثانیه، وابسته به سیستم و شرایط. NVMe نیست. نصب نیازمند بررسی جایگاه و اتصال SATA است. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "SSD",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.samsung.com/sg/memory-storage/sata-ssd/870-evo-500gb-sata-3-2-5-ssd-mz-77e500bw/"
+  },
+  {
+    "sku": "SSD-002",
+    "name": "SSD Samsung 870 EVO 1TB",
+    "price": 5200000,
+    "stock": 3,
+    "description": "ظرفیت 1TB؛ فرم 2.5 اینچ و رابط SATA. برای جایگاه M.2 به‌صورت مستقیم قابل نصب نیست. سازگاری لپ‌تاپ باید بر اساس مدل دقیق و جایگاه SATA بررسی شود. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "SSD",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.samsung.com/sg/memory-storage/sata-ssd/870-evo-1tb-sata-3-2-5-ssd-mz-77e1t0bw/"
+  },
+  {
+    "sku": "SSD-003",
+    "name": "SSD Samsung 990 PRO 1TB بدون هیت‌سینک",
+    "price": 7800000,
+    "stock": 0,
+    "description": "ظرفیت 1TB؛ M.2 2280، NVMe و PCIe 4.0 x4؛ این قلم بدون هیت‌سینک است. برای درگاه SATA 2.5 اینچی قابل نصب مستقیم نیست. سازگاری به پشتیبانی NVMe، ابعاد جایگاه و مشخصات دستگاه وابسته است. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "SSD",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/990-pro-1tb-nvme-pcie-gen-4-mz-v9p1t0bw/"
+  },
+  {
+    "sku": "SSD-004",
+    "name": "SSD Kingston NV2 1TB",
+    "price": 4200000,
+    "stock": 7,
+    "description": "ظرفیت 1TB؛ فرم M.2 2280 و رابط PCIe 4.0 x4 NVMe. صرف وجود شکاف M.2 برای تأیید سازگاری کافی نیست؛ پشتیبانی NVMe و اندازه جایگاه باید بررسی شود. نوع کنترلر یا NAND این قلم در داده فروشگاه مشخص نشده است. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "SSD",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.kingston.com/datasheets/snv2s_us.pdf"
+  },
+  {
+    "sku": "SSD-005",
+    "name": "SSD Kingston A400 480GB مدل SA400S37/480G",
+    "price": 2400000,
+    "stock": 9,
+    "description": "ظرفیت 480GB؛ نسخه 2.5 اینچی SATA؛ خواندن تا 500 و نوشتن تا 450 مگابایت بر ثانیه، وابسته به شرایط. این قلم M.2 نیست؛ مدل SA400S37/480G مدنظر است. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "SSD",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.kingston.com/datasheets/sa400_en.pdf"
+  },
+  {
+    "sku": "RAM-001",
+    "name": "رم Kingston FURY Beast 16GB DDR4-3200 مدل KF432C16BB/16",
+    "price": 3100000,
+    "stock": 5,
+    "description": "یک ماژول 16GB، DDR4-3200 CL16، فرم DIMM دسکتاپ 288 پین؛ رم لپ‌تاپ SO-DIMM نیست و در شکاف DDR3 یا DDR5 قابل نصب نیست. سرعت قابل دستیابی و سازگاری به مادربرد، پردازنده و تنظیمات حافظه وابسته است. قیمت و موجودی این قلم صرفاً آزمایشی است؛ شرکت و مدت گارانتی فروشگاهی هنوز تأیید نشده است.",
+    "category": "رم",
+    "currency": "تومان",
+    "demo_data": true,
+    "spec_source_url": "https://www.kingston.com/dataSheets/KF432C16BB_16.pdf"
+  }
+]
